@@ -1,0 +1,11 @@
+@font-face {
+  font-family: IRANYekanX;
+  src: url(../font/IRANYekanX\(Eco\)/Webfonts/woff/IRANYekanX-Regular.woff);
+}
+
+.width {
+  max-width: 950px;
+}
+.text-list {
+  font-size: 11px;
+}

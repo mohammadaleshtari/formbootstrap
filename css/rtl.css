@@ -1,0 +1,17 @@
+body {
+  direction: rtl;
+}
+.offset-1 {
+  margin-left: 0;
+  margin-right: 8.33333%;
+}
+.karbari {
+  border-radius: 0;
+  border-top-right-radius: 4px !important;
+  border-bottom-right-radius: 4px !important;
+}
+.karbari1 {
+  border-radius: 0;
+  border-top-left-radius: 4px !important;
+  border-bottom-left-radius: 4px !important;
+}
